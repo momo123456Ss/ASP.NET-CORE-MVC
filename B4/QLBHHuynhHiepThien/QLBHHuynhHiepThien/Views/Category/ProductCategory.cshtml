@@ -1,0 +1,84 @@
+﻿@using QLBHHuynhHiepThien.Models
+
+@{
+    ViewBag.Title = "ProductCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ProductCategory</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            <p>Tên sản phẩm</p>
+        </th>
+        <th>
+            <p>Nhà cung cấp</p>
+        </th>
+        <th>
+            <p>Loại sản phẩm</p>
+        </th>
+        <th>
+            <p>Đơn vị tính</p>
+        </th>
+        <th>
+            <p>Giá</p>
+        </th>
+        <th>
+            <p>Số lượng</p>
+        </th>
+        @*<th>
+                <p>Số lượng trên đơn hàng</p>
+            </th>
+            <th>
+                <p>Đổi trả</p>
+            </th>
+            <th>
+                <p>Khuyến mãi</p>
+            </th>*@
+        <th></th>
+    </tr>
+
+    @foreach (var item in HomeModel.ListProduct.Where(s => s.CategoryID == ViewBag.ListProductCategory_SortByCategoryID))
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SupplierID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuantityPerUnit)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitsInStock)
+            </td>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.UnitsOnOrder)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReorderLevel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Discontinued)
+                </td>*@
+        <td>
+            @Html.ActionLink("Thông tin chi tiết", "Details", new { @id = item.ProductID }) |
+            @Html.ActionLink("Xóa", "Delete", new { @id = item.ProductID }) |
+            @Html.ActionLink("Thêm vào giỏ hàng", "AddCart", "Cart", new { @id = item.ProductID }, null) 
+
+        </td>
+        </tr>
+    }
+
+</table>

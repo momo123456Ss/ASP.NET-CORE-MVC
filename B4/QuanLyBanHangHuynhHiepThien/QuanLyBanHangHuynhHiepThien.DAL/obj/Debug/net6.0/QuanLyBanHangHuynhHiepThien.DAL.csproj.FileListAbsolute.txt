@@ -1,0 +1,17 @@
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\bin\Debug\net6.0\QuanLyBanHangHuynhHiepThien.DAL.deps.json
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\bin\Debug\net6.0\QuanLyBanHangHuynhHiepThien.DAL.runtimeconfig.json
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\bin\Debug\net6.0\QuanLyBanHangHuynhHiepThien.DAL.dll
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\bin\Debug\net6.0\QuanLyBanHangHuynhHiepThien.DAL.pdb
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\bin\Debug\net6.0\QuanLyBanHangHuynhHiepThien.Common.dll
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\bin\Debug\net6.0\QuanLyBanHangHuynhHiepThien.Common.pdb
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.DAL.csproj.AssemblyReference.cache
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.DAL.AssemblyInfoInputs.cache
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.DAL.AssemblyInfo.cs
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.DAL.csproj.CoreCompileInputs.cache
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.DAL.csproj.CopyComplete
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.DAL.dll
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\obj\Debug\net6.0\refint\QuanLyBanHangHuynhHiepThien.DAL.dll
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.DAL.pdb
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.DAL.genruntimeconfig.cache
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.DAL\obj\Debug\net6.0\ref\QuanLyBanHangHuynhHiepThien.DAL.dll

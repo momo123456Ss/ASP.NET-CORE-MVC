@@ -1,0 +1,11 @@
+D:\HocTap\LapTrinhCSDL\B3\QLBHHuynhHiepThien\QLBHHuynhHiepThien\bin\Debug\QLBHHuynhHiepThien.exe.config
+D:\HocTap\LapTrinhCSDL\B3\QLBHHuynhHiepThien\QLBHHuynhHiepThien\bin\Debug\QLBHHuynhHiepThien.exe
+D:\HocTap\LapTrinhCSDL\B3\QLBHHuynhHiepThien\QLBHHuynhHiepThien\bin\Debug\QLBHHuynhHiepThien.pdb
+D:\HocTap\LapTrinhCSDL\B3\QLBHHuynhHiepThien\QLBHHuynhHiepThien\obj\Debug\QLBHHuynhHiepThien.csproj.AssemblyReference.cache
+D:\HocTap\LapTrinhCSDL\B3\QLBHHuynhHiepThien\QLBHHuynhHiepThien\obj\Debug\QLBHHuynhHiepThien.csproj.SuggestedBindingRedirects.cache
+D:\HocTap\LapTrinhCSDL\B3\QLBHHuynhHiepThien\QLBHHuynhHiepThien\obj\Debug\QLBHHuynhHiepThien.Form1.resources
+D:\HocTap\LapTrinhCSDL\B3\QLBHHuynhHiepThien\QLBHHuynhHiepThien\obj\Debug\QLBHHuynhHiepThien.Properties.Resources.resources
+D:\HocTap\LapTrinhCSDL\B3\QLBHHuynhHiepThien\QLBHHuynhHiepThien\obj\Debug\QLBHHuynhHiepThien.csproj.GenerateResource.cache
+D:\HocTap\LapTrinhCSDL\B3\QLBHHuynhHiepThien\QLBHHuynhHiepThien\obj\Debug\QLBHHuynhHiepThien.csproj.CoreCompileInputs.cache
+D:\HocTap\LapTrinhCSDL\B3\QLBHHuynhHiepThien\QLBHHuynhHiepThien\obj\Debug\QLBHHuynhHiepThien.exe
+D:\HocTap\LapTrinhCSDL\B3\QLBHHuynhHiepThien\QLBHHuynhHiepThien\obj\Debug\QLBHHuynhHiepThien.pdb

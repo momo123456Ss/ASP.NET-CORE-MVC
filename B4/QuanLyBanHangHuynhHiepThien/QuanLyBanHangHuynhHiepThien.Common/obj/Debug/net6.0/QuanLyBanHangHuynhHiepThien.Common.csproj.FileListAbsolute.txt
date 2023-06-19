@@ -1,0 +1,14 @@
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.Common\bin\Debug\net6.0\QuanLyBanHangHuynhHiepThien.Common.deps.json
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.Common\bin\Debug\net6.0\QuanLyBanHangHuynhHiepThien.Common.dll
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.Common\bin\Debug\net6.0\QuanLyBanHangHuynhHiepThien.Common.pdb
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.Common\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.Common.csproj.AssemblyReference.cache
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.Common\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.Common\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.Common.AssemblyInfoInputs.cache
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.Common\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.Common.AssemblyInfo.cs
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.Common\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.Common.csproj.CoreCompileInputs.cache
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.Common\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.Common.dll
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.Common\obj\Debug\net6.0\refint\QuanLyBanHangHuynhHiepThien.Common.dll
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.Common\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.Common.pdb
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.Common\obj\Debug\net6.0\ref\QuanLyBanHangHuynhHiepThien.Common.dll
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.Common\bin\Debug\net6.0\QuanLyBanHangHuynhHiepThien.Common.runtimeconfig.json
+D:\HocTap\LapTrinhCSDL\B4\QuanLyBanHangHuynhHiepThien\QuanLyBanHangHuynhHiepThien.Common\obj\Debug\net6.0\QuanLyBanHangHuynhHiepThien.Common.genruntimeconfig.cache
